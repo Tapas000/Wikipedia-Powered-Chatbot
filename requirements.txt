@@ -1,0 +1,5 @@
+wikipedia~=1.4.0
+langchain~=0.3.26
+python-dotenv~=1.1.1
+pinecone~=7.3.0
+pinecone-client~=6.0.0
